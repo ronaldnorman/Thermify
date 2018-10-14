@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thermify", "Thermify\Thermify.csproj", "{5C9DEFC5-4C83-47A6-8088-44DA52ACDCF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thermify.Test", "Thermify.Test\Thermify.Test.csproj", "{14F18B94-98A5-42F2-8D7B-9DD3072D7024}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{376EB50C-D8BF-44AC-8C7E-0375DF2960B4}"
+	ProjectSection(SolutionItems) = preProject
+		Readme.txt = Readme.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C9DEFC5-4C83-47A6-8088-44DA52ACDCF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C9DEFC5-4C83-47A6-8088-44DA52ACDCF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C9DEFC5-4C83-47A6-8088-44DA52ACDCF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C9DEFC5-4C83-47A6-8088-44DA52ACDCF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14F18B94-98A5-42F2-8D7B-9DD3072D7024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14F18B94-98A5-42F2-8D7B-9DD3072D7024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14F18B94-98A5-42F2-8D7B-9DD3072D7024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14F18B94-98A5-42F2-8D7B-9DD3072D7024}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A9A1E31-C09C-476B-BFCA-D96C4C611D3A}
+	EndGlobalSection
+EndGlobal
